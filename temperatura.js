@@ -6,3 +6,5 @@ const tempFahrenheit = tempCelcius * (9/5) + 32;
 const tempkelvin = tempCelcius + 273.15;
 
 console.log(`A temperatura de ${cidade} está ${tempCelcius} Cº`)
+console.log(`Fahrenheit: ${tempFahrenheit.toFixed(1)} Fº`);
+console.log(`Kelvin: ${tempkelvin.toFixed(1)} kº`);
