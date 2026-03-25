@@ -7,8 +7,6 @@ console.log(`O produto é: ${produto}.`);
 console.log(`A ${produto} custa ${preco.toFixed(2)}.`);
 console.log(`O estoque ainda possui ${estoque} mochilas.`);
 console.log(`A categoria de ${produto} é ${categoria}.`)
-
-DENTRO DO TERMINAL
 git add produto.js
 git commit -m "versao1"
 git push
